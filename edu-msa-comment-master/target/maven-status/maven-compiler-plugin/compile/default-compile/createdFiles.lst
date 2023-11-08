@@ -1,0 +1,9 @@
+kpaas\msa\common\KpaasExcepHndlr.class
+kpaas\msa\common\CommonUtil.class
+kpaas\msa\common\KpaasOthersExcepHndlr.class
+kpaas\msa\dao\CommentDAO.class
+kpaas\msa\controller\CommentController.class
+kpaas\msa\common\AuthAspect.class
+kpaas\msa\service\CommentService.class
+kpaas\msa\service\impl\CommentServiceImpl.class
+kpaas\msa\common\CommonDAO.class
